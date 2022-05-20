@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsCdkLambdaDemo", "AwsCdkLambdaDemo\AwsCdkLambdaDemo.csproj", "{F857B385-2CCF-4FA5-BF07-03F069C6047A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|x64.Build.0 = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Debug|x86.Build.0 = Debug|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|x64.ActiveCfg = Release|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|x64.Build.0 = Release|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|x86.ActiveCfg = Release|Any CPU
+		{F857B385-2CCF-4FA5-BF07-03F069C6047A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
