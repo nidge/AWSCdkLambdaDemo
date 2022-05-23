@@ -3,14 +3,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AwsCdkLambdaDemo
+namespace cdk
 {
     sealed class Program
     {
         public static void Main(string[] args)
         {
             var app = new App();
-            new AwsCdkLambdaDemoStack(app, "AwsCdkLambdaDemoStack", new StackProps
+            new FooBarLambdasStack(app, "AwsCdkLambdaDemoStack", new StackProps
             {
                 // If you don't specify 'env', this stack will be environment-agnostic.
                 // Account/Region-dependent features and context lookups will not work,
